@@ -7,8 +7,6 @@ import BoxColor from './BoxColor';
 import CreditCard from './CreditCard';
 import Rating from './Rating';
 import DriverCard from './DriverCard';
-import Facebook from './Facebook';
-import SignupPage from './SignupPage';
 
 function App() {
   return (
